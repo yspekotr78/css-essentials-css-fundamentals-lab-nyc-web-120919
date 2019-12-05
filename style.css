@@ -12,6 +12,7 @@ body {
 
 a {
   padding: 10px;
+  background-color: lightblue;
 }
  a:link {
    color: purple;
