@@ -42,6 +42,7 @@ figcaption{
 #details div {
   display: block;
   background-color: yellow;
+  color: rgba(0, 0, 255, 0.5);
   float: left;
   text-align: center;
   width: 25%;
