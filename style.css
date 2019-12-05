@@ -12,8 +12,8 @@ body {
 
 a {
   padding-left: 10px;
+  background: yellow;
   
-  color: rgba(0, 0, 255, 0.5)
   
 }
  a:link {
@@ -36,6 +36,7 @@ figcaption{
    width: 400px;
    text-align: center;
    margin:0 auto;
+   color: rgba(0, 0, 255, 0.5)
  }
 
 #details div {
