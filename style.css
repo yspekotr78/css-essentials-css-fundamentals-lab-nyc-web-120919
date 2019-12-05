@@ -10,8 +10,9 @@ body {
 }
 
 
-a {
+nav {
   padding-left: 10px;
+  background: yellow;
 }
  a:link {
    color: purple;
